@@ -111,12 +111,17 @@ int main(void)
 ## Output screen shots of proteus  :
 
 
+## BUTTON OFF LED OFF CONDITION
+![sled off](https://user-images.githubusercontent.com/94166007/234936470-95e2a03e-bb15-4bee-81d4-2473a5a003b6.jpeg)
 
+## BUTTON ON LED OFF CONDITION
+![sled on](https://user-images.githubusercontent.com/94166007/234936514-1fc734ef-b0ba-4e0c-a6b6-2238e963568c.jpeg)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
  
  
- 
+ ![pdf s](https://user-images.githubusercontent.com/94166007/234936536-20f0075e-0419-4efa-ab80-ac42a7274dc7.jpeg)
+
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
